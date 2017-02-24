@@ -24,9 +24,9 @@ messagetosend = message.format(
 
 # Credentials (if needed)
 
-username = 'odane.peck24@gmail.com'
+username = ''
 
-password = 'tptf uejc vfhb koku'
+password = ''
 
 
 # Prepare actual message
